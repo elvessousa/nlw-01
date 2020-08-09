@@ -2,8 +2,6 @@
     <img alt="Ecoleta" title="Ecoleta" src="frontend/src/assets/logo.svg" width="250px" />
 </h1>
 
-#### Semana Omnistack 11
-
 ![Count](https://img.shields.io/github/languages/count/elvessousa/nlw-01)
 ![Repo size](https://img.shields.io/github/repo-size/elvessousa/nlw-01)
 
